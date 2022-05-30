@@ -126,7 +126,7 @@
 
 ## 📝Licence 
    
-   This repository is available under the MIT license. See the [LICENSE]() file for more info.
+   This repository is available under the MIT license. See the <b>LICENSE</b> file for more info.
 
 
 </article>
