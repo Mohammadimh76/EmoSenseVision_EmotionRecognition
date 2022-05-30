@@ -167,7 +167,9 @@
    
    <i>Please mention the name of the repository in the subject line of the email</i> <br>
    
-   > <b>Telegram:</b> '[at] Mohammadimh76'
+   > <b>Telegram:</b> '[@Mohammadimh76](https://t.me/Mohammadimh76)'
+   
+   > <b>Personal Website:</b> [Mohammadimh76.github.io](https://mohammadimh76.github.io/)
 
 
 </article>
