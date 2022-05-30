@@ -109,17 +109,20 @@
    Please cite deepface in your publications if it helps your research. Here are BibTeX entries:
    
 ```BibTeX
-@inproceedings{,
-  title        = {},
-  author       = {},
-  booktitle    = {},
-  pages        = {},
-  year         = {},
-  doi          = {},
-  url          = {},
-  organization = {}
+@INPROCEEDINGS{990517,
+    author={Viola, P. and Jones, M.},
+   booktitle={Proceedings of the 2001 IEEE Computer Society Conference on Computer Vision and Pattern Recognition. CVPR 2001},
+   title={Rapid object detection using a boosted cascade of simple features},
+   year={2001},
+   volume={1},
+   number={},
+   pages={I-I},
+   doi={10.1109/CVPR.2001.990517}}
 }
 ```
+   
+   
+   
    
    Also, if you use Emotion Recognition using CNN in your GitHub projects, please add Emotion Recognition using CNN in the `requirements.txt`.
 
