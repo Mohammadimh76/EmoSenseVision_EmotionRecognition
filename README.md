@@ -88,7 +88,7 @@
 
 ## Issues and Suggestions
   
-If any issues and suggestions to me, you can create an issue.<br>
+If any issues and suggestions to me, you can create an [issue](https://github.com/Mohammadimh76/Emotion_Recognition/issues).<br>
 <b>👉 If you like this work please help me by giving me some stars.</b> ☺️🖐
 
 </article>    
