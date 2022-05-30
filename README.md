@@ -104,7 +104,7 @@
   <!-- Citation -->
 <article id="citation">
 
-## Citation
+## 📚Citation
    
    Please cite deepface in your publications if it helps your research. Here are BibTeX entries:
    
