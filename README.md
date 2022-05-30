@@ -6,14 +6,18 @@
 
 # 🚩Table of Contents
 
-* [Introduction](#introduction): <i></i>
-* [Dependencies](#dependencies): <i></i>
-* [Basic Usage](#basic-usage): <i></i>
-* [Data Preparation (optional)](#data-preparation-optional): <i></i>
-* [Algorithm](#algorithm): <i></i>
-* [Example Output](#example-output): <i></i>
-* [References](#references): <i></i>
-* [Issues and Suggestions](#issues-and-suggestions): <i></i>
+* [Introduction](#introduction)
+* [Dependencies](#dependencies)
+* [Basic Usage](#basic-usage)
+* [Data Preparation (optional)](#data-preparation-optional)
+* [Algorithm](#algorithm)
+* [Example Output](#example-output)
+* [Conclusion](#conclusion) 
+* [Contribution](#contribution)
+* [Citation](#citation)
+* [Licence](#licence)
+* [Support](#support)
+* [Contact](#contact)
 
 </div>
 
@@ -23,7 +27,7 @@
    <!-- Introduction -->
 <article id="introduction">
 
-## Introduction
+## 〽️Introduction
 
 </article>
   
@@ -74,25 +78,93 @@
   
   
   
-  <!-- References -->
-<article id="references">
+  <!-- Conclusion -->
+<article id="conclusion">
 
-## References
+## Conclusion
 
-</article>    
+</article>   
   
   
-  
-  <!-- Issues and Suggestions -->
-<article id="issues-and-suggestions">
+  <!-- Contribution -->
+<article id="contribution">
 
-## Issues and Suggestions
-  
-If any issues and suggestions to me, you can create an [issue](https://github.com/Mohammadimh76/Emotion_Recognition/issues).<br>
-<b>👉 If you like this work please help me by giving me some stars.</b> ☺️🖐
+## 🤝Contribution
 
 </article>    
   
   
+  <!-- Citation -->
+<article id="citation">
+
+## Citation
+   
+   Please cite deepface in your publications if it helps your research. Here are BibTeX entries:
+   
+```BibTeX
+@inproceedings{,
+  title        = {},
+  author       = {},
+  booktitle    = {},
+  pages        = {},
+  year         = {},
+  doi          = {},
+  url          = {},
+  organization = {}
+}
+```
+   
+   Also, if you use Emotion Recognition using CNN in your GitHub projects, please add Emotion Recognition using CNN in the `requirements.txt`.
+
+
+
+</article>   
+  
+  
+  <!-- Licence  -->
+<article id="licence">
+
+## 📝Licence 
+   
+   This repository is available under the MIT license. See the [LICENSE]() file for more info.
+
+
+</article>
+   
+---
+  
+  
+  <!-- Support -->
+<article id="support">
+
+##    🙏Support
+   
+   There are many ways to support a project - starring⭐️ the GitHub repo is just one ☺️🙏<br>
+   
+   If you like this repository, consider making a donation to the developer. Thank you!
+   
+> BTC: <b>bc1qjvsx3k4kkw6ccm6l06tfyx4ld9mmunlg52yqug</b> <br>
+
+> USDT: <b>TU9PyDJ8gcQCUWPvfmoa2gkFb4SKTwFBGN</b> <br>
+
+</article>      
+  
+  
+  <!-- Contact   -->
+<article id="contact">
+
+## 📧Contact
+   
+   If you need to contact me for any reason you can send me an email here: 
+   `Mohammadimir2017 [at] gmail (dot) com` <br>
+   
+   <i>Please mention the name of the repository in the subject line of the email</i> <br>
+   
+   > <b>Telegram:</b> '[at] Mohammadimh76'
+
+
+</article>
+   
+   
   
 </main>
