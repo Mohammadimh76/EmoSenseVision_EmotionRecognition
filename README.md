@@ -90,6 +90,13 @@
 <article id="contribution">
 
 ## 🤝Contribution
+   
+   
+   Emotion Recognition using CNN is built and maintained entirely by volunteer contributors around the internet. We welcome and appreciate new contributions.<br>
+   
+   If you're a developer looking to help, but you're not sure where to begin, check the [good first issue label](https://github.com/Mohammadimh76/Emotion_Recognition/issues), which contains small pieces of work that have been specifically flagged as being friendly to new contributors.<br>
+
+   Contributors looking to do something a bit more challenging, before opening a pull request, please join our community chat (Request an email) or start a GitHub discussion to get early feedback, discuss best ways to tackle the problem and ensure there is no work duplication.
 
 </article>    
   
