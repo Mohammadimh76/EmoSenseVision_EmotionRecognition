@@ -27,7 +27,7 @@
    <!-- Introduction -->
 <article id="introduction">
 
-## 〽️Introduction
+## Introduction
 
 </article>
   
