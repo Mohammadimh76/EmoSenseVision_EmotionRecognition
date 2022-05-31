@@ -180,18 +180,20 @@
 
 
 </article>
-   
- 
+  
   
   <!-- Author -->
+<article id="author">
 
-## ✒️Author
+## Author
    
 |<p align="center"><img width="150" height="150" src="https://github.com/Mohammadimh76/MohammadiMh76.github.io/blob/master/images/Profile.png"></p>|
 |----------|
-|[Mohammad Hossein Mohammmadi](http://mohammadimh76.github.io/)|   
+|[Mohammad Hossein Mohammmadi](http://mohammadimh76.github.io/)| 
 
-   
+
+</article>   
+  
    
   
 </main>
