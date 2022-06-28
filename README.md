@@ -175,7 +175,7 @@
    
    > <b>Personal Website:</b> [Mohammadimh76.github.io](https://mohammadimh76.github.io/)<br>
    
-  ### 🔻Operation Time (Based on the time of [Denmark](https://time.is/Denmark))
+  ### 🔻Operation Time 
    I'm available on Monday – Friday – 10am to 5pm, except on holidays.
 
 
