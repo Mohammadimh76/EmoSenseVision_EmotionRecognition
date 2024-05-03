@@ -156,8 +156,6 @@
    
 > BTC: <b>bc1qjvsx3k4kkw6ccm6l06tfyx4ld9mmunlg52yqug</b> <br>
 
-> USDT: <b>TU9PyDJ8gcQCUWPvfmoa2gkFb4SKTwFBGN</b> <br>
-
 </article>      
   
   
